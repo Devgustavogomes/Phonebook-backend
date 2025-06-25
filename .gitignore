@@ -1,0 +1,13 @@
+# Ignora a pasta de dependências
+node_modules/
+
+# Logs de erro
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ambiente local
+.env
+
+# Cache do sistema
+.DS_Store
